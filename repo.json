@@ -28,7 +28,7 @@
       "id": "com.butaca",
       "title": "Butaca",
       "shortDescription": "<p>Native Jellyfin client for LG webOS TVs: Rust, GPU-drawn UI at 60 fps, hardware video. Fork of plx-native</p>",
-      "fullDescriptionUrl": "https://raw.githubusercontent.com/gnacho/butaca/refs/heads/main/README.md",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/butaca.html",
       "iconUri": "https://raw.githubusercontent.com/gnacho/butaca/refs/heads/main/pkg/largeIcon.png",
       "manifestUrl": "https://github.com/gnacho/butaca/releases/latest/download/com.butaca.manifest.json"
     }
