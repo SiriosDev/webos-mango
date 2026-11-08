@@ -35,10 +35,18 @@
     {
       "id": "com.cleanyourtv.manager",
       "title": "Clean Your TV Manager",
-      "shortDescription": "<p>Manage your LG webOS TV with this simple and effective tool.</p>",
+      "shortDescription": "<p>A clean home screen for rooted LG webOS TVs, with an optional debloat of LG's ads and telemetry.</p>",
       "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/cleanyourtv.html",
       "iconUri": "https://raw.githubusercontent.com/lasharor/cleanyourtv-WebOS/refs/heads/dev/app/largeIcon.png",
       "manifestUrl": "https://github.com/lasharor/cleanyourtv-WebOS/releases/latest/download/com.cleanyourtv.manager.manifest.json"
+    },
+    {
+      "id": "com.github.pbalazaar.homeplus",
+      "title": "Home+",
+      "shortDescription": "<p>A tvOS-style home screen for rooted LG webOS TVs, in a Liquid Glass look.</p>",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/homeplus.html",
+      "iconUri": "https://raw.githubusercontent.com/pbalazaar/home-plus/refs/heads/main/native/img/largeIcon.png",
+      "manifestUrl": "https://github.com/pbalazaar/home-plus/releases/latest/download/com.github.pbalazaar.homeplus.manifest.json"
     }
   ]
 }
