@@ -55,6 +55,14 @@
       "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/nativetv.html",
       "iconUri": "https://raw.githubusercontent.com/ihtisham1211/native-tv/refs/heads/main/native-tv/assets/icon.png",
       "manifestUrl": "https://github.com/ihtisham1211/native-tv/releases/latest/download/io.github.ihtisham1211.nativetv.manifest.json"
+    },
+    {
+      "id": "com.sostk.nativejelly",
+      "title": "Native Jelly",
+      "shortDescription": "<p> native Jellyfin client adapted from PLX Native, with a modern TV-focused interface and Jellyfin support</p>",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/nativejelly.html",
+      "iconUri": "https://raw.githubusercontent.com/sostk/native-jelly/refs/heads/main/pkg/largeIcon.png",
+      "manifestUrl": "https://github.com/sostk/native-jelly/releases/latest/download/com.sostk.nativejelly.manifest.json"
     }
   ]
 }
