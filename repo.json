@@ -19,10 +19,18 @@
     {
       "id": "io.unom.punktfunk.client-webos",
       "title": "Punktfunk (beta)",
-      "shortDescription": "Low-latency desktop and game streaming client for punktfunk hosts. Built from every commit on main",
+      "shortDescription": "<p>Low-latency desktop and game streaming client for punktfunk hosts. Built from every commit on main</p>",
       "fullDescriptionUrl": "https://github.com/punktfunk/client-webos/releases/download/beta/description.html",
       "iconUri": "https://raw.githubusercontent.com/punktfunk/client-webos/main/packaging/icon_large.png",
       "manifestUrl": "https://github.com/punktfunk/client-webos/releases/download/beta/io.unom.punktfunk.client-webos.manifest.json"
+    },
+    {
+      "id": "com.butaca",
+      "title": "Butaca",
+      "shortDescription": "<p>Native Jellyfin client for LG webOS TVs: Rust, GPU-drawn UI at 60 fps, hardware video. Fork of plx-native</p>",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/gnacho/butaca/refs/heads/main/README.md",
+      "iconUri": "https://raw.githubusercontent.com/gnacho/butaca/refs/heads/main/pkg/largeIcon.png",
+      "manifestUrl": "https://github.com/gnacho/butaca/releases/latest/download/com.butaca.manifest.json"
     }
   ]
 }
