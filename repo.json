@@ -31,6 +31,14 @@
       "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/butaca.html",
       "iconUri": "https://raw.githubusercontent.com/gnacho/butaca/refs/heads/main/pkg/largeIcon.png",
       "manifestUrl": "https://github.com/gnacho/butaca/releases/latest/download/com.butaca.manifest.json"
+    },
+    {
+      "id": "com.cleanyourtv.manager",
+      "title": "Clean Your TV Manager",
+      "shortDescription": "<p>Manage your LG webOS TV with this simple and effective tool.</p>",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/cleanyourtv.html",
+      "iconUri": "https://raw.githubusercontent.com/lasharor/cleanyourtv-WebOS/refs/heads/dev/app/largeIcon.png",
+      "manifestUrl": "https://github.com/lasharor/cleanyourtv-WebOS/releases/latest/download/com.cleanyourtv.manager.manifest.json"
     }
   ]
 }
