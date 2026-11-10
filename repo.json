@@ -63,6 +63,14 @@
       "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/nativejelly.html",
       "iconUri": "https://raw.githubusercontent.com/sostk/native-jelly/refs/heads/main/pkg/largeIcon.png",
       "manifestUrl": "https://github.com/sostk/native-jelly/releases/latest/download/com.sostk.nativejelly.manifest.json"
+    },
+    {
+      "id": "com.twitchlite.app",
+      "title": "Twitch Lite",
+      "shortDescription": "<p>A lightweight Twitch client for LG webOS TVs</p>",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/twitchlite.html",
+      "iconUri": "https://raw.githubusercontent.com/adamff-dev/twitch-lite-webos/refs/heads/master/docs/icon.png",
+      "manifestUrl": "https://github.com/adamff-dev/twitch-lite-webos/releases/latest/download/com.twitchlite.app.manifest.json"
     }
   ]
 }
