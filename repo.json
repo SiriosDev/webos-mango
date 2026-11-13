@@ -87,6 +87,14 @@
       "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/lantern.html",
       "iconUri": "https://raw.githubusercontent.com/Bouliw/lantern/refs/heads/main/webos/largeIcon.png",
       "manifestUrl": "https://github.com/Bouliw/lantern/releases/download/v0.1.0/app.lantern.tv.manifest.json"
+    },
+    {
+      "id": "io.github.tiper.finnative",
+      "title": "FinNative",
+      "shortDescription": "A fast, stylish client for Jellyfin. One web app for desktop, webOS TVs and phones.",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/finnative.html",
+      "iconUri": "https://raw.githubusercontent.com/tiper/fin-native/refs/heads/main/pkg/largeIcon.png",
+      "manifestUrl": "https://github.com/tiper/fin-native/releases/latest/download/io.github.tiper.finnative.manifest.json"
     }
   ]
 }
