@@ -86,7 +86,7 @@
       "shortDescription": "A fast, stylish client for Jellyfin. One web app for desktop, webOS TVs and phones.",
       "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/lantern.html",
       "iconUri": "https://raw.githubusercontent.com/Bouliw/lantern/refs/heads/main/webos/largeIcon.png",
-      "manifestUrl": "https://github.com/Bouliw/lantern/releases/download/v0.1.0/app.lantern.tv.manifest.json"
+      "manifestUrl": "https://github.com/Bouliw/lantern/releases/latest/download/app.lantern.tv.manifest.json"
     },
     {
       "id": "io.github.tiper.finnative",
