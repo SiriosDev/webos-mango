@@ -95,6 +95,14 @@
       "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/finnative.html",
       "iconUri": "https://raw.githubusercontent.com/tiper/fin-native/refs/heads/main/pkg/largeIcon.png",
       "manifestUrl": "https://github.com/tiper/fin-native/releases/latest/download/io.github.tiper.finnative.manifest.json"
+    },
+    {
+      "id": "com.github.afonsojramos.magicmapper",
+      "title": "Magic Mapper",
+      "shortDescription": "<p>TV-native Homebrew interface for remapping LG Magic Remote buttons</p>",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/magicmapper.html",
+      "iconUri": "https://raw.githubusercontent.com/afonsojramos/magic-mapper-webos/refs/heads/main/largeIcon.png",
+      "manifestUrl": "https://github.com/afonsojramos/magic-mapper-webos/releases/latest/download/com.github.afonsojramos.magicmapper.manifest.json"
     }
   ]
 }
