@@ -73,14 +73,6 @@
       "manifestUrl": "https://github.com/adamff-dev/twitch-lite-webos/releases/latest/download/com.twitchlite.app.manifest.json"
     },
     {
-      "id": "com.ecklf.luma",
-      "title": "Luma",
-      "shortDescription": "A remote-first native webOS launcher.",
-      "fullDescriptionUrl": "https://github.com/ecklf/lg-luma/releases/latest/download/description.html",
-      "iconUri": "https://github.com/ecklf/lg-luma/releases/latest/download/app-icon-large.png",
-      "manifestUrl": "https://github.com/ecklf/lg-luma/releases/latest/download/com.ecklf.luma.manifest.json"
-    },
-    {
       "id": "app.lantern.tv",
       "title": "Lantern",
       "shortDescription": "A fast, stylish client for Jellyfin. One web app for desktop, webOS TVs and phones.",
