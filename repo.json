@@ -103,6 +103,14 @@
       "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/smbbrowser.html",
       "iconUri": "https://raw.githubusercontent.com/pulpoff/webos-file-manager/refs/heads/main/app/fm-largeIcon.png",
       "manifestUrl": "https://github.com/pulpoff/webos-file-manager/releases/latest/download/com.pulp.smbbrowser.manifest.json"
+    },
+    {
+      "id": "com.wiios.launcher.homebrew",
+      "title": "WiiOS",
+      "shortDescription": "<p>File manager and media player for rooted LG webOS TVs: USB, SMB and SFTP</p>",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/wiios.html",
+      "iconUri": "https://raw.githubusercontent.com/KaykCaputo/WiiOS-webOS/refs/heads/master/icon.png",
+      "manifestUrl": "https://github.com/KaykCaputo/WiiOS-webOS/releases/latest/download/com.wiios.launcher.homebrew.manifest.json"
     }
   ]
 }
