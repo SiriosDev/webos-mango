@@ -107,7 +107,7 @@
     {
       "id": "com.wiios.launcher",
       "title": "WiiOS",
-      "shortDescription": "<p>File manager and media player for rooted LG webOS TVs: USB, SMB and SFTP</p>",
+      "shortDescription": "<p>Nintendo Wii-inspired home screen launcher for rooted LG webOS TVs</p>",
       "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/wiios.html",
       "iconUri": "https://raw.githubusercontent.com/KaykCaputo/WiiOS-webOS/refs/heads/master/icon.png",
       "manifestUrl": "https://github.com/KaykCaputo/WiiOS-webOS/releases/latest/download/com.wiios.launcher.homebrew.manifest.json"
