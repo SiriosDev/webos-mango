@@ -111,6 +111,14 @@
       "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/wiios.html",
       "iconUri": "https://raw.githubusercontent.com/KaykCaputo/WiiOS-webOS/refs/heads/master/icon.png",
       "manifestUrl": "https://github.com/KaykCaputo/WiiOS-webOS/releases/latest/download/com.wiios.launcher.homebrew.manifest.json"
+    },
+    {
+      "id": "net.badacid.homeassistlg",
+      "title": "Home Assist LG",
+      "shortDescription": "<p>Home assistant app for LG TVs</p>",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/homeassistlg.html",
+      "iconUri": "https://raw.githubusercontent.com/JayTee-2024/home-assistant-lg/refs/heads/main/webos/largeIcon.png",
+      "manifestUrl": "https://github.com/JayTee-2024/home-assistant-lg/releases/latest/download/net.badacid.homeassistlg.manifest.json"
     }
   ]
 }
