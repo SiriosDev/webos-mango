@@ -119,6 +119,14 @@
       "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/homeassistlg.html",
       "iconUri": "https://raw.githubusercontent.com/JayTee-2024/home-assistant-lg/refs/heads/main/webos/largeIcon.png",
       "manifestUrl": "https://github.com/JayTee-2024/home-assistant-lg/releases/latest/download/net.badacid.homeassistlg.manifest.json"
+    },
+    {
+      "id": "com.macluckylab.jellyrust",
+      "title": "JellyRust",
+      "shortDescription": "<p>Native Jellyfin client for LG webOS TVs.</p>",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/SiriosDev/webos-mango/refs/heads/main/description_placeholders/jellyrust.html",
+      "iconUri": "https://raw.githubusercontent.com/mac-lucky/jellyrust/refs/heads/main/pkg/icon.png",
+      "manifestUrl": "https://github.com/mac-lucky/jellyrust/releases/latest/download/com.macluckylab.jellyrust.manifest.json"
     }
   ]
 }
